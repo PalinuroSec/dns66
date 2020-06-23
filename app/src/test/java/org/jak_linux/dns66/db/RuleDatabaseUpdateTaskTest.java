@@ -1,4 +1,4 @@
-package org.jak_linux.dns66.db;
+package org.parrotsec.dns66.db;
 
 import android.content.ContentResolver;
 import android.content.Context;
@@ -6,7 +6,7 @@ import android.content.UriPermission;
 import android.net.Uri;
 import android.util.Log;
 
-import org.jak_linux.dns66.Configuration;
+import org.parrotsec.dns66.Configuration;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

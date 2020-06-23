@@ -1,10 +1,10 @@
-package org.jak_linux.dns66.db;
+package org.parrotsec.dns66.db;
 
 import android.content.Context;
 import android.util.Log;
 
-import org.jak_linux.dns66.Configuration;
-import org.jak_linux.dns66.FileHelper;
+import org.parrotsec.dns66.Configuration;
+import org.parrotsec.dns66.FileHelper;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

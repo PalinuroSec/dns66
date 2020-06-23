@@ -11,7 +11,7 @@ Installing
 ----------
 [<img src="https://f-droid.org/badge/get-it-on.png"
       alt="Get it on F-Droid"
-      height="80">](https://f-droid.org/app/org.jak_linux.dns66)
+      height="80">](https://f-droid.org/app/org.parrotsec.dns66)
 
 You can either install it via F-Droid, using the official F-Droid repository, or you can use my personal repository at https://jak-linux.org/fdroid/repo which gets updates ASAP.
 

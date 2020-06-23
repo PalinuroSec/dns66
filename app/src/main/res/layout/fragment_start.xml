@@ -5,11 +5,11 @@
               android:layout_width="match_parent"
               android:layout_height="match_parent"
               android:orientation="vertical"
-              tools:context="org.jak_linux.dns66.main.StartFragment">
+              tools:context="org.parrotsec.dns66.main.StartFragment">
 
     <include layout="@layout/extra_bar_start"/>
 
-    <org.jak_linux.dns66.SquareImageView
+    <org.parrotsec.dns66.SquareImageView
         android:id="@+id/state_image"
         android:layout_width="match_parent"
         android:layout_height="0dp"

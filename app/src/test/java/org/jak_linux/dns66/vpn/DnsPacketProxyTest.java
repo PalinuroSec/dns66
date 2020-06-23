@@ -1,10 +1,10 @@
-package org.jak_linux.dns66.vpn;
+package org.parrotsec.dns66.vpn;
 
 import android.content.Context;
 import android.util.Log;
 
-import org.jak_linux.dns66.Configuration;
-import org.jak_linux.dns66.db.RuleDatabase;
+import org.parrotsec.dns66.Configuration;
+import org.parrotsec.dns66.db.RuleDatabase;
 import org.junit.Before;
 import org.junit.Rule;
 import org.junit.Test;

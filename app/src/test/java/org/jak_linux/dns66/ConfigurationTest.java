@@ -1,4 +1,4 @@
-package org.jak_linux.dns66;
+package org.parrotsec.dns66;
 
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
