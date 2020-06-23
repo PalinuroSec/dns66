@@ -3,36 +3,111 @@
   "minorVersion": 1,
   "autoStart": true,
   "showNotification": true,
-  "nightMode": false,
+  "nightMode": true,
   "watchDog": false,
   "ipV6Support": true,
   "dnsServers": {
-    "enabled": false,
+    "enabled": true,
     "items": [
+      {
+        "title": "Parrot OpenNIC Anycast 1",
+        "location": "198.251.90.108",
+        "state": 0
+      },
+      {
+        "title": "Parrot OpenNIC Anycast 2",
+        "location": "198.251.90.109",
+        "state": 0
+      },
+      {
+        "title": "Parrot OpenNIC Anycast 3",
+        "location": "198.251.90.110",
+        "state": 0
+      },
+      {
+        "title": "Parrot OpenNIC San Francisco",
+        "location": "167.172.126.146",
+        "state": 0
+      },
+      {
+        "title": "Parrot OpenNIC Dallas",
+        "location": "45.79.57.113",
+        "state": 0
+      },
+      {
+        "title": "Parrot OpenNIC New York",
+        "location": "161.35.10.109",
+        "state": 0
+      },
+      {
+        "title": "Parrot OpenNIC Toronto",
+        "location": "167.99.189.229",
+        "state": 0
+      },
+      {
+        "title": "Parrot OpenNIC London",
+        "location": "161.35.36.53",
+        "state": 0
+      },
+      {
+        "title": "Parrot OpenNIC Amsterdam",
+        "location": "142.93.136.116",
+        "state": 0
+      },
+      {
+        "title": "Parrot OpenNIC Frankfurt",
+        "location": "178.128.204.62",
+        "state": 0
+      },
+      {
+        "title": "Parrot OpenNIC Mumbai",
+        "location": "172.105.49.243",
+        "state": 0
+      },
+      {
+        "title": "Parrot OpenNIC Bangalore",
+        "location": "165.22.209.106",
+        "state": 0
+      },
+      {
+        "title": "Parrot OpenNIC Singapore",
+        "location": "68.183.178.72",
+        "state": 0
+      },
+      {
+        "title": "Parrot OpenNIC Sydney",
+        "location": "172.105.162.206",
+        "state": 0
+      },
+      {
+        "title": "Parrot OpenNIC Tokyo",
+        "location": "172.105.220.183",
+        "state": 0
+      },
       {
         "title": "Chaos Computer Club (DE)",
         "location": "213.73.91.35",
-        "state": 1
+        "state": 0
       },
       {
         "title": "Digitalcourage e.V. (DE)",
         "location": "46.182.19.48",
-        "state": 1
+        "state": 0
       },
       {
         "title": "AS250.NET (DE)",
         "location": "194.150.168.168",
-        "state": 1
+        "state": 0
       },
       {
         "title": "dns.watch server 1 (DE)",
         "location": "84.200.69.80",
-        "state": 1
+        "state": 0
       },
       {
         "title": "dns.watch server 2 (DE)",
         "location": "84.200.70.40",
-        "state": 1
+        "state": 0
       },
       {
         "title": "ISC (US)",

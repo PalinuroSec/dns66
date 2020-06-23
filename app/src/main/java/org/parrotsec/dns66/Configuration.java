@@ -86,28 +86,8 @@ public class Configuration {
 
                 /* Update digitalcourage dns and add cloudflare */
                 // updateDNS("85.214.20.141", "46.182.19.48");
-                addDNS("Parrot OpenNIC Anycast 1", "198.251.90.108", false);
-                addDNS("Parrot OpenNIC Anycast 2", "198.251.90.109", true);
-                addDNS("Parrot OpenNIC Anycast 3", "198.251.90.110", true);
-                addDNS("Parrot OpenNIC Anycast 4", "198.251.90.161", false);
-                addDNS("Parrot OpenNIC Anycast 5", "198.251.90.163", false);
-                addDNS("Parrot OpenNIC San Francisco", "167.172.126.146", false);
-                addDNS("Parrot OpenNIC Dallas", "45.79.57.113", false)
-                addDNS("Parrot OpenNIC New York", "161.35.10.109", false);
-                addDNS("Parrot OpenNIC Toronto", "167.99.189.229", false);
-                addDNS("Parrot OpenNIC London", "161.35.36.53", false);
-                addDNS("Parrot OpenNIC Amsterdam", "142.93.136.116", false);
-                addDNS("Parrot OpenNIC Frankfurt", "178.128.204.62", false);
-                addDNS("Parrot OpenNIC Bangalore", "165.22.209.106", false);
-                addDNS("Parrot OpenNIC Mumbai", "172.105.49.243", false);
-                addDNS("Parrot OpenNIC Singapore", "68.183.178.72", false);
-                addDNS("Parrot OpenNIC Sydney", "172.105.162.206", false);
-                addDNS("Parrot OpenNIC Tokyo", "172.105.220.183", false);addDNS("CloudFlare DNS 1", "1.1.1.1", false);
-                addDNS("CloudFlare DNS 2", "1.0.0.1", false);
-                addDNS("CloudFlare DNS 1", "1.1.1.1", false);
-                addDNS("CloudFlare DNS 2", "1.0.0.1", false);
-                addDNS("Google DNS 1", "8.8.8.8", false);
-                addDNS("Goolge DNS 2", "8.8.4.4", false);
+                // addDNS("Parrot OpenNIC Anycast 4", "198.251.90.161", false);
+                // addDNS("Parrot OpenNIC Anycast 5", "198.251.90.163", false);
                 break;
         }
         this.minorVersion = level;
